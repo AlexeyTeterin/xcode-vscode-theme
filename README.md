@@ -1,0 +1,1 @@
+# A VS Code theme inspired by Xcode Classic
