@@ -216,6 +216,7 @@
         "entity.name.tag",
         "keyword",
         "keyword.operator.expression",
+        "keyword.operator.new",
         "punctuation.definition.tag",
         "storage.modifier",
         "storage.type",
